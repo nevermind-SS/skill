@@ -1,0 +1,1 @@
+sudo logwatch --detail Low --mailto root
